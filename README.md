@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on machine learning and fropntend
+- 🔭 I’m currently working on machine learning and frontend
 - 🌱 I’m currently learning python data structures
 - 👯 I’m looking to collaborate on my assignments
 - 🤔 I’m looking for help with my assignments
